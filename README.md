@@ -4,6 +4,7 @@
 
 ## 打开方式
 
+- 在线使用：https://liyucheng1997.github.io/my-ticktick-web/ （手机也能打开，数据保存在各自的浏览器里）
 - 直接双击 `index.html`，用 Chrome / Edge 打开即可。
 - 或者在本目录运行本地服务器（系统通知在 `localhost` 下更可靠）：
 
